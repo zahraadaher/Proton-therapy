@@ -1,0 +1,12 @@
+name: proton-therapy-sim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - ipython
+  - jupyter
+
